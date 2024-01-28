@@ -1,0 +1,9 @@
+const HANDLE_STATE = {
+   UNASSIGNED: 'UNASSIGNED',
+   PENDING: 'PENDING',
+   ASSIGNED: 'ASSIGNED',
+   COMPLETED: 'COMPLETED',
+};
+
+
+module.exports = HANDLE_STATE;
